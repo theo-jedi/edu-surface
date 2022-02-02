@@ -1,10 +1,10 @@
-package com.theost.drawapp;
+package com.theost.surfaceapp;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.theost.drawapp.databinding.ActivityMainBinding;
+import com.theost.surfaceapp.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 

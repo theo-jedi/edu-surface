@@ -1,4 +1,4 @@
-package com.theost.drawapp;
+package com.theost.surfaceapp;
 
 import android.content.Context;
 import android.graphics.Canvas;
